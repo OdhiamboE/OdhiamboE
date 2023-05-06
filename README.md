@@ -10,6 +10,6 @@
   <a href="https://twitter.com/OdhiamboRagoro?t=a8M7J_DuzuHd3GaAlBtrtg&s=03">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=OdhiamboE&style=flat-square&color=blue" alt=""/>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=OdhiamboE&style=flat-square&color=blue" alt=""/>
 </div>
