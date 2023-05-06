@@ -20,3 +20,14 @@
   <img src="https://media.giphy.com/media/3o6nVbpDfXbRv7D1wA/giphy.gif" width="600" height="300"/>
 </div>
 </div>
+---
+
+### 👨_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi,Kenya.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Software Engineering at Alx-Africa.
+
+- :zap: In my free time, I read tech articles.
+
+- 🥸
